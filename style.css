@@ -2,18 +2,19 @@ h1 {
     text-align: center;
     color: #0000A0;
     font-family: 'Shrikhand', cursive;
+    font-size: 50px;
 }
 
 p {
     font-family: 'Raleway', sans-serif;
+    font-size: 20px;
 }
 
 body {
-    background-image: url(images/fireworks.jpg);
-    background: linear-gradient(
-    /*top*/
-    rgba(255,255,255,0.5)
-    /*bottom*/
-    rgba(255,255,255,0.5)
-    )
+    background-image: url(images/snow.png);
+}
+
+#calendar {
+    max-height: 300px;
+    float: left;
 }
