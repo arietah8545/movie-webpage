@@ -6,16 +6,16 @@ h1 {
 }
 
 h3 {
-    text-align: center;
-    color: #0000A0;
-    font-family: 'Shrikhand', cursive;
-  font-size: 30px
+  text-align: center;
+  color: #0000A0;
+  font-family: 'Shrikhand', cursive;
+  font-size: 40px
 }
 
 p {
   font-family: 'Raleway', sans-serif;
-  font-size: 20px;
-/*  float: right;*/
+  font-size: 25px;
+  /*float: right;*/
 }
 
 body {
@@ -29,9 +29,11 @@ body {
 
 div {
   font-family: 'Raleway', sans-serif;
-  font-size: 20px;
+  font-size: 25px;
   color: #0000A0;
-  margin: auto;
+  /*margin: auto;*/
+  position: absolute;
+  margin-top: 100px;
 }
 
 .blue-button {
