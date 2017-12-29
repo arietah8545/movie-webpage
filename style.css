@@ -47,3 +47,7 @@ div {
   margin: 20px;
   height: 50px;
 }
+
+video {
+  display: block;
+}
